@@ -1,0 +1,2 @@
+# sql-micro-course
+certificate
